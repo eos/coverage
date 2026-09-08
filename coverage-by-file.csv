@@ -272,7 +272,7 @@ cpp,eos/utils/expression.cc,29,34,85.29
 cpp,eos/utils/expression.hh,40,40,100.00
 cpp,eos/utils/gsl-hacks.cc,5,14,35.71
 cpp,eos/utils/indirect-iterator-impl.hh,21,29,72.41
-cpp,eos/utils/instantiation_policy-impl.hh,23,23,100.00
+cpp,eos/utils/instantiation_policy-impl.hh,25,25,100.00
 cpp,eos/utils/instantiation_policy.hh,2,2,100.00
 cpp,eos/utils/iterator-range.hh,0,9,0.00
 cpp,eos/utils/join.hh,9,9,100.00
@@ -282,7 +282,7 @@ cpp,eos/utils/kmatrix-impl.hh,112,130,86.15
 cpp,eos/utils/kmatrix.cc,5,9,55.56
 cpp,eos/utils/kmatrix.hh,15,18,83.33
 cpp,eos/utils/lock.cc,7,16,43.75
-cpp,eos/utils/log.cc,94,115,81.74
+cpp,eos/utils/log.cc,101,123,82.11
 cpp,eos/utils/log.hh,3,3,100.00
 cpp,eos/utils/memoise.cc,15,15,100.00
 cpp,eos/utils/memoise.hh,36,37,97.30
@@ -290,13 +290,13 @@ cpp,eos/utils/mutable.cc,1,1,100.00
 cpp,eos/utils/mutex.cc,13,13,100.00
 cpp,eos/utils/mutex.hh,2,2,100.00
 cpp,eos/utils/named-value.hh,0,21,0.00
-cpp,eos/utils/observable_cache.cc,138,161,85.71
+cpp,eos/utils/observable_cache.cc,139,162,85.80
 cpp,eos/utils/observable_set.cc,29,34,85.29
 cpp,eos/utils/observable_stub.cc,26,26,100.00
 cpp,eos/utils/options-impl.hh,36,46,78.26
 cpp,eos/utils/options.cc,188,237,79.32
 cpp,eos/utils/options.hh,1,2,50.00
-cpp,eos/utils/parameters.cc,443,498,88.96
+cpp,eos/utils/parameters.cc,453,509,89.00
 cpp,eos/utils/private_implementation_pattern-impl.hh,4,4,100.00
 cpp,eos/utils/qcd.cc,92,94,97.87
 cpp,eos/utils/qualified-name-parts.hh,40,40,100.00
@@ -311,7 +311,7 @@ cpp,eos/utils/stringify.hh,21,21,100.00
 cpp,eos/utils/strong-typedef.hh,7,7,100.00
 cpp,eos/utils/test-observable.cc,38,55,69.09
 cpp,eos/utils/thread.cc,24,38,63.16
-cpp,eos/utils/thread_pool.cc,70,83,84.34
+cpp,eos/utils/thread_pool.cc,82,95,86.32
 cpp,eos/utils/ticket.cc,17,34,50.00
 cpp,eos/utils/tuple-maker.hh,11,11,100.00
 cpp,eos/utils/units.cc,39,53,73.58
