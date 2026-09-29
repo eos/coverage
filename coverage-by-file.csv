@@ -323,7 +323,7 @@ cpp,eos/utils/verify.cc,9,9,100.00
 cpp,eos/utils/verify.hh,15,15,100.00
 cpp,eos/utils/wilson-polynomial.cc,94,94,100.00
 cpp,eos/utils/wrapped_forward_iterator-impl.hh,58,61,95.08
-python,python/eos/__init__.py,70,97,72.16
+python,python/eos/__init__.py,77,100,77.00
 python,python/eos/_api.py,2,2,100.00
 python,python/eos/analysis.py,229,410,55.85
 python,python/eos/analysis_file.py,275,280,98.21
